@@ -1,0 +1,15 @@
+.card {
+    margin: 0px 40px;
+
+    .card-body {
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+
+            label {
+                font-weight: 600;
+            }
+        }
+    }
+}
